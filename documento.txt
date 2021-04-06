@@ -1,7 +1,0 @@
-
-Video CRIANDO O HTML
-Na pasta raiz( c/node/Nodejs-EJS) digitar comando para iniciar o projeto em Nodejs
-$ npm init -y    (-y para para ser tudo automáticos)
-Vai criar o arquivo package.json
-
-Criar arquivo index.html que mais para frente será EJS 
